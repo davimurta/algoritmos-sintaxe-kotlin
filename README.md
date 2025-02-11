@@ -26,8 +26,8 @@ The goal is to improve kotlin sintaxe.<br>
 The following tools were used in the construction of the project:
 
 - IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>
-- SDK: <a href="https://go.microsoft.com/fwlink/?linkid=2088631">Net FrameWork 4.8</a>
+- SDK: <a href="https://www.jdoodle.com/compile-kotlin-online">Kotlin Online</a>
 
 <h2 id=author>:grin: Author</h2>
 
-Developed by <a href="https://www.linkedin.com/in/davimurta/" target="_blank">Daniel Paiva</a>
+Developed by <a href="https://www.linkedin.com/in/davimurta/" target="_blank">Davi Murta</a>
