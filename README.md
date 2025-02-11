@@ -25,8 +25,7 @@ The goal is to improve kotlin sintaxe.<br>
 
 The following tools were used in the construction of the project:
 
-- IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>
-- SDK: <a href="https://www.jdoodle.com/compile-kotlin-online">Kotlin Online</a>
+- IDE: <a href="https://www.jdoodle.com/compile-kotlin-online">Kotlin Online</a>
 
 <h2 id=author>:grin: Author</h2>
 
